@@ -1,0 +1,6 @@
+--compilers js:babel-core/register
+--compilers ts-node/register
+--require babel-polyfill
+--recursive
+--watch
+--watch-extensions ts
